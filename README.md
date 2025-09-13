@@ -1,1 +1,1 @@
-# Air_Quality_Prediction
+# Air-Quality-Prediction

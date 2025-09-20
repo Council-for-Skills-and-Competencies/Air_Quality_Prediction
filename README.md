@@ -1,4 +1,4 @@
-# Air Quality Prediction using Machine Learning
+# Machine Learning-Based Forecasting of Air Pollution Levels
 
 ## Introduction
 Air pollution is a growing environmental and public health challenge worldwide. Rising levels of pollutants such as PM2.5, PM10, NO₂, CO, and O₃ cause respiratory illnesses, cardiovascular diseases, and millions of premature deaths annually. Predicting air quality accurately can help policymakers and communities take timely preventive measures.

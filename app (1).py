@@ -6,7 +6,7 @@ import os
 
 # Set page configuration for a modern look
 st.set_page_config(
-    page_title="Air Quality Prediction",
+    page_title="Machine Learning-Based Forecasting of Air Pollution Levels",
     layout="centered",
     initial_sidebar_state="expanded"
 )
@@ -155,5 +155,6 @@ if model:
             # st.markdown("<div class='result-container'>", unsafe_allow_html=True)
             st.markdown(f"<p class='result-text'>Predicted Air Quality Index: <span class='{color_class}'>{predicted_aqi}</span></p>", unsafe_allow_html=True)
             st.markdown("</div>", unsafe_allow_html=True)
+
 
 
